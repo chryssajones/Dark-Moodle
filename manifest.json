@@ -8,11 +8,11 @@
         "48": "images/icon48.png",
         "128": "images/icon128.png"
     },
-    "description": "Dark theme for UBS Moodle",
+    "description": "Dark theme for Nucamp's Learn Platform",
     "content_scripts": [
         {
             "css": ["./style.css"],
-            "matches": ["https://moodle.univ-ubs.fr/*", "https://cas.univ-ubs.fr/*"]
+            "matches": ["https://learn.nucamp.co/*"]
         }
     ]
 }
