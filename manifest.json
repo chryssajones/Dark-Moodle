@@ -1,7 +1,7 @@
 {
-    "manifest_version": 2,
-    "name": "Dark Moodle",
-    "version": "1.2",
+    "manifest_version": 1,
+    "name": "Nucamp After Dark",
+    "version": "1.0",
     "icons": {
         "16": "images/icon16.png",
         "32": "images/icon32.png",
